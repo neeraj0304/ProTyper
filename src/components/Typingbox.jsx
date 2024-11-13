@@ -236,7 +236,7 @@ function Typingbox() {
         >
           <div className=" flex justify-center items-center ">
             <div className=" items-center justify-center w-3/4  border-2 border-red-500">
-              <div className=" text-white flex flex-wrap text-base md:text-xl lg:text-2xl font-kay weight-700 p-2">
+              <div className=" text-white flex flex-wrap text-base md:text-xl lg:text-2xl font-kurale weight-700 p-2">
                 {words.map((word, i) => (
                   <span
                     key={i}
