@@ -10,7 +10,7 @@ function Footer() {
       <h1 className=' text-white font-mono'>
         built by: 
           </h1> 
-          <h1 style={{textDecoration:'underline'}} className='font-pacifico text-green-500 tracking-wide'>
+          <h1 style={{textDecoration:'underline'}} className='font-pacifico text-green-500   hover:text-red-500 hover:duration-200'>
            neerajsahu
           </h1>
           </a>
